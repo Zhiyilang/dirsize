@@ -71,3 +71,17 @@ MIT — free to use, modify and ship.
 If `dirsize` helped you clean up disk space, consider supporting my open-source
 work via [爱发电 (afdian)](https://afdian.com/a/Zhiyilang). Every bit funds more
 zero-dependency tools. Thank you! ⭐
+
+<!-- cross-links -->
+
+## 🔗 More zero-dependency tools
+
+All of these are single-file, pure Python-stdlib CLIs — offline, no `pip install`, cross-platform:
+
+- **billfusion** — Bill / CSV merging · <https://github.com/Zhiyilang/billfusion>
+- **lanshare** — LAN file transfer · <https://github.com/Zhiyilang/lanshare>
+- **dupescan** — Duplicate file finder · <https://github.com/Zhiyilang/dupescan>
+- **csvdiff** — CSV / JSON diff · <https://github.com/Zhiyilang/csvdiff>
+- **md2html** — Markdown to HTML · <https://github.com/Zhiyilang/md2html>
+
+Full portfolio & docs: <https://zhiyilang.github.io/>
