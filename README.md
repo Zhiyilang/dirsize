@@ -10,7 +10,7 @@
 
 Find out what's eating your disk — instantly. No install, no internet, just one file.
 
-[![Sponsor](https://img.shields.io/badge/sponsor-afdian-ff69b4)](https://afdian.com/a/Zhiyilang)
+[![Sponsor](https://img.shields.io/badge/sponsor-afdian-ff69b4)](https://afdian.com/a/Zhiyilang074811)
 
 ## Why
 
@@ -75,7 +75,7 @@ MIT — free to use, modify and ship.
 ### 👋 Like this tool?
 
 If `dirsize` helped you clean up disk space, consider supporting my open-source
-work via [爱发电 (afdian)](https://afdian.com/a/Zhiyilang). Every bit funds more
+work via [爱发电 (afdian)](https://afdian.com/a/Zhiyilang074811). Every bit funds more
 zero-dependency tools. Thank you! ⭐
 
 <!-- cross-links -->
